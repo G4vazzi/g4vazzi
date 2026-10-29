@@ -70,7 +70,7 @@ Portfólio pessoal inspirado em experiências digitais e interfaces de jogos, co
 
 **Stack:** HTML, CSS, JavaScript
 
-[Explorar projeto](https://g4vazzi.github.io/portfolio-pedro-gavazzi/)
+[Explorar projeto](https://g4vazzi.github.io/portfolio-pedro-gavazzi/portfolio-v2.html)
 
 ### LanchoneteWeb — Aplicação Full Stack
 
@@ -84,7 +84,7 @@ Website empresarial com simuladores, ferramentas de cálculo e funcionalidades d
 
 **Stack:** Python, Flask, JavaScript, HTML, CSS
 
-[Visitar website](https://spacocontabil.com.br)
+[Visitar website](https://www.spacocontabil.com.br/)
 
 ### Gestor de Contratos — Aplicação Desktop
 
@@ -105,7 +105,7 @@ Aplicação para gerenciamento de contratos, clientes e documentos, desenvolvida
 
 **Vamos construir algo interessante?**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ACESSAR-0B1730?style=for-the-badge&logo=githubpages&logoColor=60A5FA)](https://g4vazzi.github.io/portfolio-pedro-gavazzi/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ACESSAR-0B1730?style=for-the-badge&logo=githubpages&logoColor=60A5FA)](https://g4vazzi.github.io/portfolio-pedro-gavazzi/portfolio-v2.html)
 [![GitHub](https://img.shields.io/badge/GITHUB-G4VAZZI-0B1730?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/g4vazzi)
 
 ---
