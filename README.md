@@ -52,7 +52,9 @@ developer = {
 
 <div align="center">
 
-![Distribuição automática das linguagens](./assets/languages.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/G4vazzi/g4vazzi/main/assets/languages.svg" alt="Distribuição das linguagens" width="820">
+</p>
 
 *Distribuição calculada automaticamente a partir dos repositórios públicos próprios.*
 
