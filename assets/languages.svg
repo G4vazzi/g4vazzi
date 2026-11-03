@@ -3,19 +3,19 @@
 <rect x="1" y="1" width="818" height="338" rx="17" fill="none" stroke="#29496A"/>
 <text x="35" y="46" fill="#60A5FA" font-family="Arial,sans-serif" font-size="14" font-weight="bold">PG REALITY // LANGUAGE ANALYTICS</text>
 <text x="35" y="75" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="12">Distribuição por volume de código</text>
-<path d="M 225 195 L 225.000 82.000 A 113 113 0 0 1 331.209 233.583 Z" fill="#3B82F6" stroke="#071429" stroke-width="2"/>
+<path d="M 225 195 L 225.000 82.000 A 113 113 0 0 1 331.202 233.602 Z" fill="#3B82F6" stroke="#071429" stroke-width="2"/>
 <circle cx="453" cy="108" r="6" fill="#3B82F6"/>
 <text x="470" y="113" font-family="Arial,sans-serif" font-size="14" fill="#DBEAFE">CSS</text>
 <text x="775" y="113" font-family="Arial,sans-serif" font-size="14" text-anchor="end" fill="#FFFFFF">30.5%</text>
-<path d="M 225 195 L 331.209 233.583 A 113 113 0 0 1 155.712 284.264 Z" fill="#60A5FA" stroke="#071429" stroke-width="2"/>
+<path d="M 225 195 L 331.202 233.602 A 113 113 0 0 1 155.628 284.199 Z" fill="#60A5FA" stroke="#071429" stroke-width="2"/>
 <circle cx="453" cy="139" r="6" fill="#60A5FA"/>
 <text x="470" y="144" font-family="Arial,sans-serif" font-size="14" fill="#DBEAFE">HTML</text>
 <text x="775" y="144" font-family="Arial,sans-serif" font-size="14" text-anchor="end" fill="#FFFFFF">30.0%</text>
-<path d="M 225 195 L 155.712 284.264 A 113 113 0 0 1 122.727 146.946 Z" fill="#1D4ED8" stroke="#071429" stroke-width="2"/>
+<path d="M 225 195 L 155.628 284.199 A 113 113 0 0 1 122.892 146.595 Z" fill="#1D4ED8" stroke="#071429" stroke-width="2"/>
 <circle cx="453" cy="170" r="6" fill="#1D4ED8"/>
 <text x="470" y="175" font-family="Arial,sans-serif" font-size="14" fill="#DBEAFE">JavaScript</text>
 <text x="775" y="175" font-family="Arial,sans-serif" font-size="14" text-anchor="end" fill="#FFFFFF">21.5%</text>
-<path d="M 225 195 L 122.727 146.946 A 113 113 0 0 1 225.000 82.000 Z" fill="#93C5FD" stroke="#071429" stroke-width="2"/>
+<path d="M 225 195 L 122.892 146.595 A 113 113 0 0 1 225.000 82.000 Z" fill="#93C5FD" stroke="#071429" stroke-width="2"/>
 <circle cx="453" cy="201" r="6" fill="#93C5FD"/>
 <text x="470" y="206" font-family="Arial,sans-serif" font-size="14" fill="#DBEAFE">Python</text>
 <text x="775" y="206" font-family="Arial,sans-serif" font-size="14" text-anchor="end" fill="#FFFFFF">18.0%</text>
