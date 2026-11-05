@@ -9,8 +9,8 @@
 
 Desenvolvimento Web · Python · Automação · Dados
 
-[![Portfolio](https://img.shields.io/badge/PG_REALITY-PORTFOLIO-0B1730?style=for-the-badge&logo=githubpages&logoColor=60A5FA)](https://g4vazzi.github.io/portfolio-pedro-gavazzi/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0B1730?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/PG_REALITY-PORTFOLIO-0B1730?style=for-the-badge&logo=githubpages&logoColor=60A5FA)](https://g4vazzi.github.io/portfolio-pedro-gavazzi/portfolio-v2.html)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0B1730?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/pedro-gavazzi-5023a21bb/)
 
 </div>
 
